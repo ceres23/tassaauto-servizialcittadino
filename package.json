@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "bootstrap-vue": "^2.9.0",
+    "bootstrap-vue": "^2.18.0",
     "file-saver": "^2.0.2",
     "iban": "^0.0.14",
     "vue": "^2.6.11",
